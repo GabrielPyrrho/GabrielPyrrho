@@ -1,39 +1,51 @@
-## Faaaala dev, Gabriel Aqui!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPyrrho&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPyrrho&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=6470E8&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Bruno+Oliveira;Sou+desenvolvedor+Web+Front-End;e+estudo+ciencia+da+computação)](https://git.io/typing-svg)
+
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 <br>
 
-<div alinhar="centro">
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original .svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original .svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg ">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:work.Pyrrhogabriel17@gmail.com">
-      <img largura="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/gabriel-pyrrho-de-alc%C3%A2ntara-a23700191/">
-      <img largura="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img largura="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/Gabriel__Py/">
-      <img largura="25" src="instagram.png">
-    </a>
+👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full-Stack na EBAC.
+
+💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando evoluir tanto no front-end quanto back-end.
+
+🎮 Gosto de Video Games, séries, animes, sou um entusiasta do mercado financeiro e curto futebol.
+
+<br>
+
+## 🚀 Minhas Skills
+<div align="center">
+    <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/React-4A4A55?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-4A4A55?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+
+<br>
+
+## ⭐ Informações sobre minha conta GitHub
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOliveira16&theme=highcontrast&layout=compact&langs_count=16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=highcontrast&show_icons=true">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoOliveira16&theme=highcontrast&show_icons=true"></a>&nbsp;
+</div>
+
+<br>
+
+## ✉ Onde me encontrar:
+
+[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-oliveira-front-end/)](https://www.linkedin.com/in/bruno-oliveira-front-end/)
+[![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:bruno.hunterRj@gmail.com)
+[![GitHub BrunoOliveira]( https://img.shields.io/github/followers/BrunoOliveira16?label=follow&style=social)](https://github.com/BrunoOliveira16)
+
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=120&section=footer"/>
+
   
 ![Animação de cobra](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
