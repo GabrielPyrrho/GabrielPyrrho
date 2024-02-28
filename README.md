@@ -7,9 +7,9 @@
 
 <br>
 
-👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full-Stack na EBAC.
+👨🏻‍🎓 Graduação em Redes de Computadores e realizando cursos complementares em desenvolvimento.
 
-💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando evoluir tanto no front-end quanto back-end.
+💻 Apaixonado por tecnologia e pela área de desenvolvimento, buscando evoluir tanto no front-end quanto back-end.
 
 🎮 Gosto de Video Games, séries, animes, sou um entusiasta do mercado financeiro e curto futebol.
 
@@ -17,11 +17,7 @@
 
 ## 🚀 Minhas Skills
 <div align="center">
-    <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/React-4A4A55?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/React_Native-4A4A55?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
