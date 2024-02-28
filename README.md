@@ -40,7 +40,9 @@
 
 
 <br>
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+######## ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=120&section=footer"/>
 
