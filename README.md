@@ -7,7 +7,7 @@
 
 <br>
 
-👨🏻‍🎓 Graduação em Redes de Computadores realizando cursos complementares em desenvolvimento.
+👨🏻‍🎓 Graduação em Redes de Computadores e realizando cursos complementares em desenvolvimento.
 
 💻 Apaixonado por tecnologia e pela área de desenvolvimento, buscando evoluir tanto no front-end quanto back-end.
 
