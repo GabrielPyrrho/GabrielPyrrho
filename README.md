@@ -7,7 +7,7 @@
 
 <br>
 
-👨🏻‍🎓 Graduação em Redes de Computadores e realizando cursos complementares em desenvolvimento.
+👨🏻‍🎓 Graduação em Redes de Computadores e realizando cursos complementares na área de desenvolvimento.
 
 💻 Apaixonado por tecnologia e pela área de desenvolvimento, buscando evoluir tanto no front-end quanto back-end.
 
@@ -37,17 +37,17 @@
 
 ## ✉ Onde me encontrar:
 
-[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-GabrielPyrrho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pyrrho-de-alcântara-a23700191/)](https://www.linkedin.com/in/gabriel-pyrrho-de-alcântara-a23700191/)
+[![Linkedin: Gabriel Pyrrho](https://img.shields.io/badge/-GabrielPyrrho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pyrrho-de-alcântara-a23700191/)](https://www.linkedin.com/in/gabriel-pyrrho-de-alcântara-a23700191/)
 [![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyrrhogabriel17@gmail.com)](mailto:pyrrhogabriel17@gmail.com)
-[![GitHub BrunoOliveira]( https://img.shields.io/github/followers/GabrielPyrrho?label=follow&style=social)](https://github.com/GabrielPyrrho)
+[![GitHub Gabriel Pyrrho]( https://img.shields.io/github/followers/GabrielPyrrho?label=follow&style=social)](https://github.com/GabrielPyrrho)
 
 
 <br>
 
- ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/LuigiGF/GabrielPyrrho/blob/output/github-contribution-grid-snake.svg)
  
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1425C0&height=120&section=footer"/>
 
 
