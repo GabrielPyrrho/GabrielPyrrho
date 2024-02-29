@@ -44,7 +44,7 @@
 
 <br>
 
- ![Snake animation](https://github.com/LuigiGF/GabrielPyrrho/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GabrielPyrrho/GabrielPyrrho/blob/output/github-contribution-grid-snake.svg)
  
 <br>
 
