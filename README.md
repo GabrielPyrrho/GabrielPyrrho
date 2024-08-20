@@ -9,7 +9,7 @@
 
 👨🏻‍🎓 Graduação em Redes de Computadores e realizando cursos complementares na área de desenvolvimento.
 
-💻 Apaixonado por tecnologia e pela área de desenvolvimento, buscando evoluir tanto no front-end quanto no back-end.
+💻 Apaixonado por tecnologia e pela área de desenvolvimento, buscando evoluir tanto como front-end e também no back-end.
 
 🎮 Gosto de Video Games, séries, animes, sou um entusiasta do mercado financeiro e curto futebol.
 
