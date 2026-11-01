@@ -8,36 +8,30 @@
   <a href="https://www.linkedin.com/in/gabriel-pyrrho-de-alc%C3%A2ntara-a23700191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pyrrhogabriel17@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Recife%20%2F%20Olinda%20--%20PE-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=GabrielPyrrho&label=Visitas&color=7c3aed&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-```ts
-const gabriel = {
-  role: "Full Stack Developer",
-  location: "Recife / Olinda - PE, Brasil",
-  work: [
-    {
-      company: "Hospital Especial Domiciliar",
-      role: "Analista de Sistemas",
-      focus: ["TOTVS Protheus", "ADVPL", "TISS"],
-    },
-    {
-      company: "Teia Software",
-      role: "Full Stack Developer (PJ)",
-      focus: ["SaaS multi-tenant", "Saúde", "Finanças"],
-    },
-  ],
-  currently: [
-    "IA em produtos (Gemini, Spring AI, pgvector)",
-    "Mobile com React Native e Kotlin",
-  ],
-  education: "Redes de Computadores",
-  offline: ["games", "séries", "animes", "mercado financeiro", "futebol"],
-};
-```
+<table>
+  <tr>
+    <td width="52%" valign="top">
+
+- 🔭 Hoje trabalho no **Hospital Especial Domiciliar** com Protheus/ADVPL e faturamento **TISS**
+- 🚀 Na **Teia Software** construo SaaS multi-tenant para **saúde** e **finanças**
+- 🌱 Estudando **IA aplicada** (Gemini, Spring AI, pgvector) e **mobile** (React Native, Kotlin)
+- 💬 Pode me perguntar sobre **Next.js, Spring Boot, Angular e Protheus**
+- 🎓 Formado em Redes de Computadores
+- ⚡ Fora do código: games, animes, futebol e mercado financeiro
+
+</td>
+    <td width="48%" valign="top" align="center">
+      <img src="assets/terminal.svg" width="100%" alt="Terminal animado"/>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
