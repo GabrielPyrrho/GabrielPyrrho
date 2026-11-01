@@ -113,4 +113,10 @@ const gabriel = {
 
 > 🔒 A maioria dos projetos profissionais é privada. Posso mostrar detalhes em uma conversa.
 
+## 🎮 Minhas contribuições viraram um jogo
+
+<p align="center">
+  <img src="game.gif" alt="Space Shooter com o gráfico de contribuições"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer"/>
