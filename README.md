@@ -17,12 +17,23 @@
 ```ts
 const gabriel = {
   role: "Full Stack Developer",
-  location: "Recife / Olinda - PE 🇧🇷",
+  location: "Recife / Olinda - PE, Brasil",
   work: [
-    { company: "Hospital Especial Domiciliar", as: "Analista de Sistemas", focus: ["TOTVS Protheus", "ADVPL", "TISS"] },
-    { company: "Teia Software",                as: "Full Stack (PJ)",     focus: ["SaaS multi-tenant", "Saúde", "Finanças"] },
+    {
+      company: "Hospital Especial Domiciliar",
+      role: "Analista de Sistemas",
+      focus: ["TOTVS Protheus", "ADVPL", "TISS"],
+    },
+    {
+      company: "Teia Software",
+      role: "Full Stack Developer (PJ)",
+      focus: ["SaaS multi-tenant", "Saúde", "Finanças"],
+    },
   ],
-  currently: ["IA em produtos (Gemini, Spring AI, pgvector)", "Mobile com React Native e Kotlin"],
+  currently: [
+    "IA em produtos (Gemini, Spring AI, pgvector)",
+    "Mobile com React Native e Kotlin",
+  ],
   education: "Redes de Computadores",
   offline: ["games", "séries", "animes", "mercado financeiro", "futebol"],
 };
@@ -37,7 +48,11 @@ const gabriel = {
   </tr>
   <tr>
     <td align="center"><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />&nbsp;<img height="48" src="https://img.shields.io/badge/ADVPL-Protheus-0C2D48?style=for-the-badge" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>ERP</b></td>
+    <td><img src="https://img.shields.io/badge/TOTVS%20Protheus-ADVPL-0C2D48?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td align="center"><b>Mobile</b></td>
