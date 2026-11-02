@@ -23,12 +23,12 @@
   <tr>
     <td width="52%" valign="top">
 
-- 🔭 Hoje trabalho no **Hospital Especial Domiciliar** com Protheus/ADVPL e faturamento **TISS**
-- 🚀 Na **Teia Software** construo SaaS multi-tenant para **saúde** e **finanças**
-- 🌱 Estudando **IA aplicada** (Gemini, Spring AI, pgvector) e **mobile** (React Native, Kotlin)
-- 💬 Pode me perguntar sobre **Next.js, Spring Boot, Angular e Protheus**
-- 🎓 Formado em Redes de Computadores
-- ⚡ Fora do código: games, animes, futebol e mercado financeiro
+Desenvolvedor Full Stack focado em sistemas para **saúde** e **finanças**. Trabalho de ponta a ponta: do ERP **TOTVS Protheus (ADVPL)** a aplicações web em **Next.js e Angular**, APIs em **Spring Boot e Node** e apps mobile.
+
+- 🏥 **Hospital Especial Domiciliar**, Analista de Sistemas: customizações Protheus, faturamento TISS e APIs REST para o app
+- 🚀 **Teia Software**, Full Stack (PJ): SaaS multi-tenant para saúde, construção civil e área jurídica (Teia BPM, Nexflow, TeiaRJ)
+- 🧠 **Foco atual:** IA aplicada a produtos (Gemini, Spring AI, pgvector) e arquitetura multi-tenant
+- 🎓 **Formação** em Redes de Computadores, com base forte em infraestrutura e Linux
 
 </td>
     <td width="48%" valign="top" align="center">
