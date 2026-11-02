@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Gabriel%20Pyrrho&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Sa%C3%BAde%20%E2%80%A2%20Finan%C3%A7as%20%E2%80%A2%20ERP&descSize=18&descAlignY=58&animation=fadeIn"/>
 
 <p align="center">
+  <b>🇧🇷 Português</b> · <a href="README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Next.js+%2B+Spring+Boot+%2B+ADVPL;Do+ERP+Protheus+ao+app+mobile;SaaS+multi-tenant+para+sa%C3%BAde+e+finan%C3%A7as;IA+aplicada+a+produtos+reais" alt="Typing SVG"/></a>
 </p>
 
@@ -72,6 +76,18 @@
       <code>Next.js</code> <code>Fastify</code> <code>React Native</code> <code>Redis</code> <code>RabbitMQ</code> <code>Gemini</code>
     </td>
     <td width="50%" valign="top">
+      <h3>💳 Nexflow</h3>
+      Plataforma financeira para construtora: conciliação de cartão e PIX, CNAB e boletos, app POS, régua jurídica e integração com TOTVS RM.<br/><br/>
+      <code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Kotlin</code> <code>CNAB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚖️ TeiaRJ</h3>
+      Plataforma multi-tenant para processos de recuperação judicial, com assinatura digital de documentos.<br/><br/>
+      <code>Spring Boot</code> <code>Multi-tenant</code> <code>ClickSign</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>📅 Gestão de Escalas e Plantões</h3>
       Motor de regras de escala, seleção inteligente de profissionais por geolocalização e faturamento.<br/><br/>
       <code>Spring Boot 3</code> <code>Angular 18</code> <code>PostgreSQL</code> <code>Spring AI</code> <code>pgvector</code>
@@ -79,14 +95,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Match: Conciliação</h3>
-      Conciliação de recebimentos de cartão e PIX, com leitura de arquivos CNAB.<br/><br/>
-      <code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>NextAuth</code> <code>shadcn/ui</code>
-    </td>
-    <td width="50%" valign="top">
       <h3>🩺 Protheus HED</h3>
       Gestão hospitalar, prescrições e faturamento TISS, com APIs REST para o app.<br/><br/>
       <code>ADVPL</code> <code>TOTVS Protheus 12</code> <code>SQL Server</code> <code>REST</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 CRM WhatsApp</h3>
+      CRM de chatbots com deploy blue-green sem downtime.<br/><br/>
+      <code>Next.js 16</code> <code>Prisma</code> <code>Docker</code> <code>GitHub Actions</code>
     </td>
   </tr>
 </table>
@@ -97,20 +113,19 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| 💬 **CRM WhatsApp** | CRM de chatbots com deploy blue-green sem downtime | `Next.js 16` `Prisma` `Docker` `GitHub Actions` |
 | 🎧 **Teia Desk** | Helpdesk multi-empresa com abertura de chamados por e-mail | `Next.js` `Drizzle` `PostgreSQL` `S3` |
-| 📊 **Mesa de Cobrança** | Plataforma web de cobrança com ambientes isolados | `Next.js` `Supabase` `Playwright` `Vitest` |
-| 🧾 **NexFlow POS** | App de pagamentos para maquininhas POS | `Kotlin` `Android` `Koin` |
 | 🧠 [Memoteca](https://github.com/GabrielPyrrho/Memoteca-Angular) | App para registrar e organizar memórias | `Angular` `TypeScript` |
 
 </details>
 
 > 🔒 A maioria dos projetos profissionais é privada. Posso mostrar detalhes em uma conversa.
 
-## 🎮 Minhas contribuições viraram um jogo
-
+<details>
+<summary><b>🎮 Bônus: meu gráfico de contribuições virou um jogo</b></summary>
+<br/>
 <p align="center">
   <img src="game.gif" alt="Space Shooter com o gráfico de contribuições"/>
 </p>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer"/>
