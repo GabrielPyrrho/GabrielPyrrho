@@ -41,28 +41,70 @@ Desenvolvedor Full Stack focado em sistemas para **saúde** e **finanças**. Tra
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>Front-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /></td>
+    <td align="center" width="130"><b>Front-end</b></td>
+    <td>
+      <table><tr>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=nextjs" width="44" /><br/><sub>Next.js</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=react" width="44" /><br/><sub>React</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=angular" width="44" /><br/><sub>Angular</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=ts" width="44" /><br/><sub>TypeScript</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=tailwind" width="44" /><br/><sub>Tailwind</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=html" width="44" /><br/><sub>HTML</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=css" width="44" /><br/><sub>CSS</sub></td>
+      </tr></table>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" /></td>
+    <td align="center" width="130"><b>Back-end</b></td>
+    <td>
+      <table><tr>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=java" width="44" /><br/><sub>Java</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=spring" width="44" /><br/><sub>Spring Boot</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=nodejs" width="44" /><br/><sub>Node.js</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=python" width="44" /><br/><sub>Python</sub></td>
+      </tr></table>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>ERP</b></td>
-    <td><img src="https://img.shields.io/badge/TOTVS%20Protheus-ADVPL-0C2D48?style=for-the-badge" /></td>
+    <td align="center" width="130"><b>ERP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TOTVS%20Protheus-ADVPL-0C2D48?style=for-the-badge" /><br/><sub>Protheus 12 · ADVPL · TISS</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio" /></td>
+    <td align="center" width="130"><b>Mobile</b></td>
+    <td>
+      <table><tr>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=react" width="44" /><br/><sub>React Native</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=kotlin" width="44" /><br/><sub>Kotlin</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=androidstudio" width="44" /><br/><sub>Android</sub></td>
+      </tr></table>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,redis,rabbitmq" /></td>
+    <td align="center" width="130"><b>Dados</b></td>
+    <td>
+      <table><tr>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=postgres" width="44" /><br/><sub>PostgreSQL</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=prisma" width="44" /><br/><sub>Prisma</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=supabase" width="44" /><br/><sub>Supabase</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=redis" width="44" /><br/><sub>Redis</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=rabbitmq" width="44" /><br/><sub>RabbitMQ</sub></td>
+      </tr></table>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Testes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,git,vitest" /></td>
+    <td align="center" width="130"><b>DevOps & Testes</b></td>
+    <td>
+      <table><tr>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=docker" width="44" /><br/><sub>Docker</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=githubactions" width="44" /><br/><sub>Actions</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=nginx" width="44" /><br/><sub>Nginx</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=linux" width="44" /><br/><sub>Linux</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=git" width="44" /><br/><sub>Git</sub></td>
+        <td align="center" width="72"><img src="https://skillicons.dev/icons?i=vitest" width="44" /><br/><sub>Vitest</sub></td>
+      </tr></table>
+    </td>
   </tr>
 </table>
 
