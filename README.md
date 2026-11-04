@@ -113,38 +113,38 @@ Desenvolvedor Full Stack focado em sistemas para **saúde** e **finanças**. Tra
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>✂️ Fade <sub>em desenvolvimento</sub></h3>
+      Agendamento e gestão para barbearias: o cliente marca pelo link sem senha, o lembrete cai no Google Agenda e o dono toca agenda e caixa pelo celular.<br/><br/>
+      <code>Next.js 15</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Tailwind</code> <code>Vitest</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏥 Teia BPM</h3>
       Workflow hospitalar com app mobile multi-tenant, notificações em tempo real e IA.<br/><br/>
       <code>Next.js</code> <code>Fastify</code> <code>React Native</code> <code>Redis</code> <code>RabbitMQ</code> <code>Gemini</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💳 Nexflow</h3>
       Plataforma financeira para construtora: conciliação de cartão e PIX, CNAB e boletos, app POS, régua jurídica e integração com TOTVS RM.<br/><br/>
       <code>Next.js 14</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Kotlin</code> <code>CNAB</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚖️ TeiaRJ</h3>
       Plataforma multi-tenant para processos de recuperação judicial, com assinatura digital de documentos.<br/><br/>
       <code>Spring Boot</code> <code>Multi-tenant</code> <code>ClickSign</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📅 Gestão de Escalas e Plantões</h3>
       Motor de regras de escala, seleção inteligente de profissionais por geolocalização e faturamento.<br/><br/>
       <code>Spring Boot 3</code> <code>Angular 18</code> <code>PostgreSQL</code> <code>Spring AI</code> <code>pgvector</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🩺 Protheus HED</h3>
       Gestão hospitalar, prescrições e faturamento TISS, com APIs REST para o app.<br/><br/>
       <code>ADVPL</code> <code>TOTVS Protheus 12</code> <code>SQL Server</code> <code>REST</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 CRM WhatsApp</h3>
-      CRM de chatbots com deploy blue-green sem downtime.<br/><br/>
-      <code>Next.js 16</code> <code>Prisma</code> <code>Docker</code> <code>GitHub Actions</code>
     </td>
   </tr>
 </table>
@@ -155,6 +155,7 @@ Desenvolvedor Full Stack focado em sistemas para **saúde** e **finanças**. Tra
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| 💬 **CRM WhatsApp** | CRM de chatbots com deploy blue-green sem downtime | `Next.js 16` `Prisma` `Docker` `GitHub Actions` |
 | 🎧 **Teia Desk** | Helpdesk multi-empresa com abertura de chamados por e-mail | `Next.js` `Drizzle` `PostgreSQL` `S3` |
 | 🧠 [Memoteca](https://github.com/GabrielPyrrho/Memoteca-Angular) | App para registrar e organizar memórias | `Angular` `TypeScript` |
 
